@@ -1,25 +1,42 @@
-# Olá,me chamo Thaylon 👋
-🎓Estudante de Análise e Desenvolvimento de Sistemas
-## 🚀 Linguagens e Tecnologias
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=+Code+Next&weight=900&size=40&duration=1000&pause=600&color=39FF14&multiline=true&width=435&height=100&lines=%24+whoami+;Thaylon+Brenner" alt="Typing SVG" /></a>
 
-###  Atualmente estudando:
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="160"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="161"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="105"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="97"/>
-</p>
 
-### Conhecimentos em:
+## 👨‍💻 Languages and Tools
 
-<p align="left">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" width="180"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="125"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="185"/>
+<table align="center">
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Database</th>
+    <th align="center">SO</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=python,java"/>
+      <br>
+       <img height="40" src="https://skillicons.dev/icons?i=c"/>
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=html"/>
+      <br>
+      <img height="40" src="https://skillicons.dev/icons?i=css,figma"/>
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=ubuntu,windows"/>
+    </td>
+</table>
 
-          
-
-</p>
+## 🔗 Contact me
+    
+<div>
+  <a href="https://www.instagram.com/thaylonbrenner" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thaylonbrennersilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaylon-brenner-silva-28388035a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+    
 
 
 
