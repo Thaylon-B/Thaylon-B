@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=python,java"/>
+      <img height="40" src="https://skillicons.dev/icons?i=java"/>
       <br>
        <img height="40" src="https://skillicons.dev/icons?i=c"/>
     </td>
