@@ -29,6 +29,12 @@
     </td>
 </table>
 
+## 🚀 learning now
+
+<div align="left">
+  <img height="40" src="https://skillicons.dev/icons?i=php,laravel" />
+</div>
+
 ## 🔗 Contact me
     
 <div>
